@@ -14,7 +14,7 @@ body {
   position: relative;
   min-height: 100%;
   width: 100%;
-  background-image: url("Components/image/background_image.jpg");
+  background-image: url("image/background_image.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: max(2200px, 100vw);
